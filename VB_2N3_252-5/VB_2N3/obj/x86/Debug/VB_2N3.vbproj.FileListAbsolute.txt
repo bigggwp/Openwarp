@@ -1,0 +1,11 @@
+D:\VB_2N3_252-5\VB_2N3\bin\Debug\VB_2N3.exe
+D:\VB_2N3_252-5\VB_2N3\bin\Debug\VB_2N3.pdb
+D:\VB_2N3_252-5\VB_2N3\bin\Debug\VB_2N3.xml
+D:\VB_2N3_252-5\VB_2N3\obj\x86\Debug\VB_2N3.Form1.resources
+D:\VB_2N3_252-5\VB_2N3\obj\x86\Debug\VB_2N3.Resources.resources
+D:\VB_2N3_252-5\VB_2N3\obj\x86\Debug\VB_2N3.vbproj.GenerateResource.Cache
+D:\VB_2N3_252-5\VB_2N3\obj\x86\Debug\VB_2N3.exe
+D:\VB_2N3_252-5\VB_2N3\obj\x86\Debug\VB_2N3.xml
+D:\VB_2N3_252-5\VB_2N3\obj\x86\Debug\VB_2N3.pdb
+D:\VB_2N3_252-5\VB_2N3\obj\x86\Debug\VB_2N3.Lab1_2N3_252_5.resources
+D:\VB_2N3_252-5\VB_2N3\obj\x86\Debug\VB_2N3.Lab2_2N3_252_5.resources
